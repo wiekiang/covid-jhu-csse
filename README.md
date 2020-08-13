@@ -6,4 +6,4 @@ Dataset available here:
 
 - [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
-The analysis process explain in Toward Data Science publication.
+The analysis process explain in [Toward Data Science publication](https://towardsdatascience.com/data-analysis-using-jhu-csse-covid-19-daily-report-dataset-c8a9120ed23).
